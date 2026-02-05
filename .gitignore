@@ -1,0 +1,16 @@
+# Ambiente virtual
+venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Arquivos gerados
+*.mp3
+*.wav
+
+# Dados temporários
+dados/
+
+# VS Code
+.vscode/
